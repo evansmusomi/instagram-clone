@@ -21,6 +21,7 @@ gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'jquery-rails'
 gem 'paperclip', '~> 6.0'
 gem 'masonry-rails', '~> 0.2.4'
+gem 'acts_as_votable', '~> 0.11.1'
 
 
 group :development, :test do
