@@ -20,6 +20,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'jquery-rails'
 gem 'paperclip', '~> 6.0'
+gem 'masonry-rails', '~> 0.2.4'
 
 
 group :development, :test do
