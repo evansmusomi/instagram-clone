@@ -30,7 +30,7 @@ Each feature manipulates or displays information related to pictures (moments).
 
 ## Demo
 
-Loading...😉
+[![Watch the Demo Video](https://github.com/evansmusomi/instagram-clone/blob/master/public/images/demo-video-preview.png)](https://www.useloom.com/share/94a6cdf8bcec4b8796a1c2650669b07d)
 
 ## Credit(s)
 
